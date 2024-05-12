@@ -23,7 +23,7 @@ As someone passionate about technology, I was drawn to Mimo’s promise of makin
 
 ## Python Learning Path
 
-<a href="Py_CertMimo.pdf" </a>
+![Certificate]("Py_CertMimo.pdf")
 
 This repository contains my completed exercises and projects from the Python learning path on Mimo. Through this learning path, I gained foundational knowledge and practical skills in Python programming.
 
