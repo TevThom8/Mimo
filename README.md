@@ -23,7 +23,7 @@ As someone passionate about technology, I was drawn to Mimo’s promise of makin
 
 ## Python Learning Path
 
-<img src = "PDF document.pdf">
+![]("PDF document.pdf)
 
 This repository contains my completed exercises and projects from the Python learning path on Mimo. Through this learning path, I gained foundational knowledge and practical skills in Python programming.
 
